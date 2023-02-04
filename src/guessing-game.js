@@ -23,12 +23,3 @@ class GuessingGame {
 }
 
 module.exports = GuessingGame;
-
-// let res = new GuessingGame
-// res.setRange(0, 100)
-// res.lower()
-// res.greater()
-// res.lower()
-// res.greater()
-// res.greater()
-// console.log(res.guess())
